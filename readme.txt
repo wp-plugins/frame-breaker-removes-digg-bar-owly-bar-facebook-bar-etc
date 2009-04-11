@@ -7,7 +7,10 @@ Tested up to: 2.5.1
 Stable Tag: 0.2
 
 == Description ==
-You want people to visit your website rather than be stuck in a frame or iframe, you need this plugin.
+You want people to visit your website rather than be stuck in a frame or iframe, you need this plugin. Removes offenders such as Digg-bar, Google images, Ow.ly's wrap around frames that keep people from staying on your web site.
+
+== FAQ ==
+Is there any time I shouldn't use this plugin? Yes, when you use an admin or editing system that relies on presenting your pages in a frame.
 
 == Setup Instructions ==
 1. Extract frame-breaker.php  into your wp-content/plugins folder (or a subfolder)
