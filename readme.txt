@@ -1,4 +1,4 @@
-=== Admin Links Widget ===
+=== Frame Breaker, aka Die Digg-bar die! ===
 Contributors: pbhj
 Version: 0.6
 Tags: digg bar,frames,iframe,jailbreak,break,remove
