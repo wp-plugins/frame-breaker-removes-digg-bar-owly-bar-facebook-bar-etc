@@ -1,10 +1,10 @@
 === Frame Breaker, aka Die Digg-bar die! ===
 Contributors: pbhj
-Version: 0.6
+Version: 0.7
 Tags: digg bar,frames,iframe,jailbreak,break,remove
 Requires at least: 2.0
 Tested up to: 2.7.1
-Stable Tag: 0.6
+Stable Tag: 0.7
 Donate link: http://alicious.com/2009/frame-breaker-wordpress-plugin-removes-digg-bar-etc/
 
 == Description ==
@@ -21,6 +21,7 @@ Yes, when you use an admin or editing system that relies on presenting your page
 
 == Release History ==
 
+0.7 -- gah! I hate SVN now.
 0.6 -- updated readme.txt
 0.5 -- messed up SVN, fixed
 0.2 -- fixed erroneous character
