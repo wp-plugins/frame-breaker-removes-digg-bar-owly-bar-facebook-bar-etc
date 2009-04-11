@@ -3,7 +3,7 @@
 Plugin Name: Frame Breaker, aka Die Digg-bar die!
 Plugin URI: http://alicious.com/2009/remove-digg-bar-from-website/
 Description: You want people to visit your website rather than be stuck in a frame or iframe, you need this plugin.
-Version: 0.2
+Version: 0.7
 Author: pbhj
 Author URI: http://alicious.com
 */
