@@ -17,7 +17,9 @@ You want people to visit your website rather than be stuck in a frame or iframe,
 == Release History ==
 
 1.0 -- upgraded for HTML5 (removed script language, etc.)
+
 0.2 -- fixed erroneous character
+
 0.1 -- Initial release
 
 == Feedback ==
